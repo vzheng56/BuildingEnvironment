@@ -50,7 +50,7 @@
      <Compile Include="Assets\Editor\MyTools\SetSamePosition.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/vzheng/myClass/Sourse/BaseUnity/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/BuildingEnvironment/project/BaseUnity/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files (x86)/Unity4.5.4/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
