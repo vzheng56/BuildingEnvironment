@@ -46,11 +46,25 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Raw Mocap Data\TestAnimations.cs" />
      <Compile Include="Assets\Scripts\LearnUnity_GameObject.cs" />
      <Compile Include="Assets\Scripts\LearnUnity_MeshRender.cs" />
      <Compile Include="Assets\Scripts\LearnUnity_Panents.cs" />
+     <Compile Include="Assets\Scripts\LearnUnity_Shader.cs" />
+     <Compile Include="Assets\Scripts\LearnUnity_Sound.cs" />
      <Compile Include="Assets\Scripts\Test.cs" />
+     <Compile Include="Assets\Scripts\TestLeap.cs" />
+     <Compile Include="Assets\SwordGirl\Parallax\Scripts\Button.cs" />
+     <Compile Include="Assets\SwordGirl\Parallax\Scripts\Player.cs" />
+     <Compile Include="Assets\SwordGirl\Parallax\Scripts\Scroll.cs" />
+     <Compile Include="Assets\SwordGirl\Scripts\PlayerControlller.cs" />
+     <Compile Include="Assets\SwordGirl\Scripts\Rotate.cs" />
+     <None Include="Assets\SwordGirl\Parallax\ReadMe.txt" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\SwordGirl\Documents\Readme.txt" />
+     <None Include="Assets\Shaders\Compiled-CarPaint-3Fresnel.shader" />
+     <None Include="Assets\Raw Mocap Data\Animations\_CompleteAnimationList.txt" />
+     <None Include="Assets\Shaders\SwitchTextureShader.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/BuildingEnvironment/project/BaseUnity/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
