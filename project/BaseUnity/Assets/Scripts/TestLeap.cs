@@ -8,6 +8,6 @@ public class TestLeap : MonoBehaviour
     void Update() {
       //  transform.position = new Vector3(Mathf.Lerp(minimum, maximum, Time.time), 0, 0);
       //  Debug.Log(Mathf.Lerp(0, 1, Time.time));
-
+        Debug.Log("AAAAAA");
     }
 }
